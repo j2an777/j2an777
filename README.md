@@ -22,10 +22,14 @@
 
 🏠 Local: JungRang-gu, Seoul, Republic of Korea
 
-👦 Instagram : @hs_j2an <a href="https://www.instagram.com/verbale._.souniv/">
+👦 Instagram : @hs_j2an <a href="https://www.instagram.com/hs_j2an/">
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/hs_j2an/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>  
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+👦 Notion : @j2an.notion.site <a href="https://j2an.notion.site/Profile-364a1d26afe648cd899b1415024fd78d">
+    <img 
+        src="http://img.shields.io/badge/-Notion-#000000?style=flat&logo=Notion&link=https://j2an.notion.site/Profile-364a1d26afe648cd899b1415024fd78d"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 
 <div align=center>
 	<h2>😎 My Github Stats 😎</h2>
