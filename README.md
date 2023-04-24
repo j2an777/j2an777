@@ -25,7 +25,7 @@
 
 🏠 Local: JungRang-gu, Seoul, Republic of Korea
 
-👸🏻 Instagram : @verbale._.souniv <a href="https://www.instagram.com/verbale._.souniv/">
+👸🏻 Instagram : @hs_j2an <a href="https://www.instagram.com/verbale._.souniv/">
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/hs_j2an/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>  
