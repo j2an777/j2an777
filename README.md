@@ -89,7 +89,7 @@
         src="http://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&link=https://j2an.notion.site/Profile-364a1d26afe648cd899b1415024fd78d"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 	
-🏠 Local: JungRang-gu, Seoul, Republic of Korea
+🏠 Local: JungRang-gu, Seoul, Republic of Korea (PostCode : 02049)
 
 <!--
 **j2an777/j2an777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
