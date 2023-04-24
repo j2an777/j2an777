@@ -62,6 +62,10 @@
 	<img src="https://img.shields.io/badge/REACTNATIVE-61DAFB?style=flat&logo=ReactQuery&logoColor=white" />
 </div>
 
+<div align=center>
+	<h2>📉 My Github Stats 📈</h2>
+</div>
+
 ![J2AN's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2an777&show_icons=true&theme=dracula)
 
 <div align=center>
