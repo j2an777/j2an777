@@ -20,6 +20,15 @@
 <div align=center>
 	<h2>😎 My Github Stats 😎</h2>
 </div>
+
+📤 E-Mail : gktmdwls8282@naver.com <img src="https://img.shields.io/badge/NAVER-#03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+
+🏠 Local: JungRang-gu, Seoul, Republic of Korea
+
+👸🏻 Instagram : @verbale._.souniv <a href="https://www.instagram.com/verbale._.souniv/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/hs_j2an/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>  
 	
 ![J2AN's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2an777&show_icons=true&theme=dracula)
 
