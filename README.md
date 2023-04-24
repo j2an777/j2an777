@@ -28,7 +28,6 @@
 	 src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
 	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-🏠 Local: JungRang-gu, Seoul, Republic of Korea
 
 👦 Instagram : @hs_j2an <a href="https://www.instagram.com/hs_j2an/">
     <img 
@@ -39,9 +38,16 @@
     <img 
         src="http://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&link=https://j2an.notion.site/Profile-364a1d26afe648cd899b1415024fd78d"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+	
+🏠 Local: JungRang-gu, Seoul, Republic of Korea
 
 <div align=center>
 	<h2>😎 My Github Stats 😎</h2>
+</div>
+
+<div align=center>
+	<h2>📚 My Tech Stack 📚</h2>
+	<p>✨ Platforms & Languages ✨</p>
 </div>
 	
 ![J2AN's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2an777&show_icons=true&theme=dracula)
