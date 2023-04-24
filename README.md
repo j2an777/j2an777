@@ -42,6 +42,7 @@
 	
 </div>
 
+<br>
 <div align=center>
 	<p>🖥️ FrameWorks & Library 🖥️</p>
 </div>
@@ -51,8 +52,9 @@
 	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
 </div>
 
+<br>
 <div align=center>
-	<p>🖥️ Learn More Planning 🖥️</p>
+	<p>📖 Learn More Planning 📖</p>
 </div>
 
 <div align=center>
