@@ -69,7 +69,25 @@
 	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" />	
 	
 </div>
-	
+
+<div align=center>
+	<p>🖥️ FrameWorks & Library 🖥️</p>
+</div>
+
+<div align=center>
+	<img src="https://img.shields.io/badge/REACT-F8DC75?style=flat&logo=ReactQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
+</div>
+
+<div align=center>
+	<p>🖥️ Learn More Planning 🖥️</p>
+</div>
+
+<div align=center>
+	<img src="https://img.shields.io/badge/IOS-F8DC75?style=flat&logo==iOS&logoColor=white" />
+	<img src="https://img.shields.io/badge/REACTNATIVE-61DAFB?style=flat&logo=ReactQuery&logoColor=white" />
+</div>
+
 ![J2AN's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2an777&show_icons=true&theme=dracula)
 
 <!--
