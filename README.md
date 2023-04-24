@@ -18,7 +18,7 @@
 ⛳ <b>사용자의 관점을 우선시로 생각하여 다양한 컨텐츠 및 디자인을 제공하는 프론트엔드 개발자가 되겠습니다.</b>
 <br></br>
 
-📧 E-Mail : gktmdwls8282@naver.com <img src="https://img.shields.io/badge/NAVER-#03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+📧 E-Mail : gktmdwls8282@naver.com <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 
 🏠 Local: JungRang-gu, Seoul, Republic of Korea
 
@@ -28,7 +28,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 👦 Notion : @j2an.notion.site <a href="https://j2an.notion.site/Profile-364a1d26afe648cd899b1415024fd78d">
     <img 
-        src="http://img.shields.io/badge/-Notion-#000000?style=flat&logo=Notion&link=https://j2an.notion.site/Profile-364a1d26afe648cd899b1415024fd78d"
+        src="http://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&link=https://j2an.notion.site/Profile-364a1d26afe648cd899b1415024fd78d"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 
 <div align=center>
