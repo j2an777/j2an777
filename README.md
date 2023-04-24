@@ -16,7 +16,7 @@
   - IOS 학습 예정
 <br>
 ⛳ <b>사용자의 관점을 우선시로 생각하여 다양한 컨텐츠 및 디자인을 제공하는 프론트엔드 개발자가 되겠습니다.</b>
-<br>
+<br/>
 
 📤 E-Mail : gktmdwls8282@naver.com <img src="https://img.shields.io/badge/NAVER-#03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 
