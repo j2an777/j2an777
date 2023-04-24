@@ -14,15 +14,15 @@
   - AndroidStudio기반 Kotlin 학습 및 프로젝트 활동 중
   - Flutter 학습 중
   - IOS 학습 예정
-<br>
+<br></br>
 ⛳ <b>사용자의 관점을 우선시로 생각하여 다양한 컨텐츠 및 디자인을 제공하는 프론트엔드 개발자가 되겠습니다.</b>
-<br/>
+<br></br>
 
-📤 E-Mail : gktmdwls8282@naver.com <img src="https://img.shields.io/badge/NAVER-#03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+📧 E-Mail : gktmdwls8282@naver.com <img src="https://img.shields.io/badge/NAVER-#03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 
 🏠 Local: JungRang-gu, Seoul, Republic of Korea
 
-👸🏻 Instagram : @hs_j2an <a href="https://www.instagram.com/verbale._.souniv/">
+👦 Instagram : @hs_j2an <a href="https://www.instagram.com/verbale._.souniv/">
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/hs_j2an/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>  
