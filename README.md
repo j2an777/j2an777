@@ -18,6 +18,10 @@
 ⛳ <b>사용자의 관점을 우선시로 생각하여 다양한 컨텐츠 및 디자인을 제공하는 프론트엔드 개발자가 되겠습니다.</b>
 <br></br>
 
+<div align=center>
+	<h2>😎 Contact Me! 😎</h2>
+</div>
+
 📧 E-Mail(1) : gktmdwls8282@naver.com
     <img 
 	 src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=Naver&logoColor=white"
@@ -41,9 +45,6 @@
 	
 🏠 Local: JungRang-gu, Seoul, Republic of Korea
 
-<div align=center>
-	<h2>😎 My Github Stats 😎</h2>
-</div>
 
 <div align=center>
 	<h2>📚 My Tech Stack 📚</h2>
