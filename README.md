@@ -4,16 +4,6 @@
 
 ### Junior FrontEnd Developer
 #### 사용자 경험을 중심으로 설계 역량을 향상하고자 하는 개발자 꿈나무입니다.😄
-- UI/UX
-  - HCI, UX Design 기본 지식 학습
-  - Desk/User Research 실전 활동 및 Ideation 및 Figma Tool 활용한 디자인 기획
-  - Renewal Service 기획 관련 프로젝트 활동 중
-- Web
-  - Vue, React.js의 학습 및 프로젝트 활동 중
-- App
-  - AndroidStudio기반 Kotlin 학습 및 프로젝트 활동 중
-  - Flutter 학습 중
-  - IOS 학습 예정
 
 ⛳ <b>사용자의 관점을 우선시로 생각하여 다양한 컨텐츠 및 디자인을 제공하는 프론트엔드 개발자가 되겠습니다.</b>
 <br></br>
