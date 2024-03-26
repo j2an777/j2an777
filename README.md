@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=J2AN's%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20UI/UX%20Designer&descAlignY=51&descAlign=62)
 # About Me
 
-### Junior FrontEnd Developer & UI/UX Designer
-#### Web과 Android관련 학습들을 하며 UI 디자인 기획까지 가능한 FrontEnd Developer를 향해 나아가고 있는 4학년 재학생입니다.😄
+### Junior FrontEnd Developer
+#### 사용자 경험을 중심으로 설계 역량을 향상하고자 하는 개발자 꿈나무입니다.😄
 - UI/UX
   - HCI, UX Design 기본 지식 학습
   - Desk/User Research 실전 활동 및 Ideation 및 Figma Tool 활용한 디자인 기획
@@ -26,11 +26,9 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/Less-1D365D?style=flat&logo=Less&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />	
 	<br>
@@ -50,16 +48,6 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/REACT-F8DC75?style=flat&logo=ReactQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
-</div>
-
-<br>
-<div align=center>
-	<p>📖 Learn More Planning 📖</p>
-</div>
-
-<div align=center>
-	<img src="https://img.shields.io/badge/IOS-F8DC75?style=flat&logo==iOS&logoColor=white" />
-	<img src="https://img.shields.io/badge/REACTNATIVE-61DAFB?style=flat&logo=ReactQuery&logoColor=white" />
 </div>
 
 <div align=center>
