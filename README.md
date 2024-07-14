@@ -44,9 +44,9 @@
 	<h2>😎 Contact Me! 😎</h2>
 </div>
 
-📧 E-Mail(1) : gktmdwls8282@naver.com
+📧 E-Mail(1) : ha991104@gmail.com
     <img 
-	 src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=Naver&logoColor=white"
+	 src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
 	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 👦 Notion : @j2an.notion.site <a href="https://j2an.notion.site/Profile-364a1d26afe648cd899b1415024fd78d">
