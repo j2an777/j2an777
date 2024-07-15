@@ -2,8 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=J2AN's%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=51&descAlign=62)
 # About Me
 
-# About Me
-
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/user-attachments/assets/9e3b7336-47fb-424e-980a-f5a71d75f14e" width="300" height="300" />
     <p style="font-size: 24px; font-weight: bold; margin-left: 20px;">
