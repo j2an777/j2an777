@@ -2,11 +2,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=J2AN's%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=51&descAlign=62)
 # About Me
 
-<img src="https://github.com/user-attachments/assets/9e3b7336-47fb-424e-980a-f5a71d75f14e" width="100" height="100" />
-### Junior FrontEnd Developer
-#### 사용자 경험을 중심으로 설계 역량을 향상하고자 하는 개발자 꿈나무입니다.😄
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/9e3b7336-47fb-424e-980a-f5a71d75f14e" width="100" height="100" />
+    </td>
+    <td>
+      <h3>Junior FrontEnd Developer</h3>
+      <h4>사용자 경험을 중심으로 설계 역량을 향상하고자 하는 개발자 꿈나무입니다.😄</h4>
+      <p>⛳ <b>사용자의 관점을 우선시로 생각하여 다양한 컨텐츠 및 디자인을 제공하는 프론트엔드 개발자가 되겠습니다.</b></p>
+    </td>
+  </tr>
+</table>
 
-⛳ <b>사용자의 관점을 우선시로 생각하여 다양한 컨텐츠 및 디자인을 제공하는 프론트엔드 개발자가 되겠습니다.</b>
 <br></br>
 
 <div align=center>
