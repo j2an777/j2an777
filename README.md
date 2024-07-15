@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=J2AN's%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=51&descAlign=62)
-<h1 align="center">Hi 👋, I'm Seungjin Ha, I want to be a FrontEnd Developer.</h1>
-<h3 align="center">⛳ I am someone who enjoys embracing new challenges and never gives up.</h3>
+<h1 align="left">Hi 👋, I'm Seungjin Ha, I want to be a FrontEnd Developer.</h1>
+<h3 align="left">⛳ I am someone who enjoys embracing new challenges and never gives up.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j2an777&label=Profile%20views&color=0e75b6&style=flat" alt="j2an777" /> </p>
 
