@@ -10,7 +10,6 @@
 
 <div align=center>
 	<h2>📚 My Tech Stack 📚</h2>
-	<p>✨ Languages ✨</p>
 </div>
 	
 <div align="center">
@@ -18,20 +17,12 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />	
-	<br>
-	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
-	
-</div>
-
-<br>
-<div align=center>
-	<p>🖥️ FrameWorks & Library 🖥️</p>
-</div>
-
-<div align=center>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/REACT-F8DC75?style=flat&logo=ReactQuery&logoColor=white" />
+</div>
+
+
+<div align=center>
 </div>
 
 <div align=center>
