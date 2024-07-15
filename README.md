@@ -1,50 +1,28 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=J2AN's%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=51&descAlign=62)
-# About Me
+<h1 align="center">Hi 👋, I'm Seungjin Ha, I want to be a FrontEnd Developer.</h1>
+<h3 align="center">⛳ I am someone who enjoys embracing new challenges and never gives up.</h3>
 
-<h2 align="left">Hi, I'm Seungjin Ha👋, I want to be a FrontEnd Developer.</h2>
-<h3 align="left">⛳ I am someone who enjoys embracing new challenges and never gives up.😄</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=j2an777&label=Profile%20views&color=0e75b6&style=flat" alt="j2an777" /> </p>
 
-<img src="https://github.com/user-attachments/assets/9e3b7336-47fb-424e-980a-f5a71d75f14e" width="300" height="300" />
+- 🔭 I’m currently working on [dart](https://www.dartgallery.site)
 
-<br></br>
+- 🌱 I’m currently learning **Next.js**
 
-<div align=center>
-	<h2>📚 My Tech Stack 📚</h2>
-</div>
-	
-<div align="center">
-	<img src="https://img.shields.io/badge/REACT-F8DC75?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-</div>
+- 📝 I regularly write articles on [https://velog.io/@j2an/posts](https://velog.io/@j2an/posts)
 
+- 📫 How to reach me **ha991104@gmail.com**
 
-<div align=center>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/j2an_2d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j2an_2d" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/하승진" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="하승진" height="30" width="40" /></a>
+</p>
 
-<div align=center>
-	<h2>📉 My Github Stats 📈</h2>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-![J2AN's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2an777&show_icons=true&theme=dracula)
-
-<div align=center>
-	<h2>😎 Contact Me! 😎</h2>
-</div>
-
-📧 E-Mail(1) : ha991104@gmail.com
-    <img 
-	 src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
-👦 Notion : @j2an.notion.site <a href="https://j2an.notion.site/Profile-364a1d26afe648cd899b1415024fd78d">
-    <img 
-        src="http://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&link=https://j2an.notion.site/Profile-364a1d26afe648cd899b1415024fd78d"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j2an777&show_icons=true&locale=en" alt="j2an777" /></p>
 
 <!--
 **j2an777/j2an777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
