@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j2an777&label=Profile%20views&color=0e75b6&style=flat" alt="j2an777" /> </p>
 
-- 🔭 I’m currently working on [dart](https://www.dartgallery.site)
+- 🔭 I’m currently working on project [dart](https://www.dartgallery.site)
 
 - 🌱 I’m currently learning **Next.js**
 
