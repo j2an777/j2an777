@@ -4,7 +4,7 @@
 <h3 align="left">⛳ I am someone who enjoys embracing new challenges and never gives up.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j2an777&label=Profile%20views&color=0e75b6&style=flat" alt="j2an777" /> </p>
-<img align="right" src="https://github.com/user-attachments/assets/cb69c5f0-3816-493a-b1d8-994c964ce916" width="300" height="300" />
+<img align="right" src="https://github.com/user-attachments/assets/cb69c5f0-3816-493a-b1d8-994c964ce916" width="300" height="250" />
 
 - 🔭 I’m currently working on project [dart](https://www.dartgallery.site)
 
