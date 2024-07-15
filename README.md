@@ -5,8 +5,8 @@
 <div style={{ display: "flex" }}>
 	<img src="https://github.com/user-attachments/assets/9e3b7336-47fb-424e-980a-f5a71d75f14e" width="300" height="300" />
 	<p style={{ fontSize: "24px" }}>
-		Junior FrontEnd Developer
-		사용자 경험을 중심으로 설계 역량을 향상하고자 하는 개발자 꿈나무입니다.😄
+		Hi, I'm Seungjin Ha👋, I want to be a FrontEnd Developer. <br/>
+		I am someone who enjoys embracing new challenges and never gives up.😄
 	</p>
 </div>
 
