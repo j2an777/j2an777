@@ -6,12 +6,9 @@
 	<img src="https://github.com/user-attachments/assets/9e3b7336-47fb-424e-980a-f5a71d75f14e" width="300" height="300" />
 	<p style={{ fontSize: "24px" }}>
 		Hi, I'm Seungjin Ha👋, I want to be a FrontEnd Developer. <br/>
-		I am someone who enjoys embracing new challenges and never gives up.😄
+		⛳I am someone who enjoys embracing new challenges and never gives up.😄
 	</p>
 </div>
-
-⛳ <b>사용자의 관점을 우선시로 생각하여 다양한 컨텐츠 및 디자인을 제공하는 프론트엔드 개발자가 되겠습니다.</b>
-
 <br></br>
 
 <div align=center>
