@@ -38,6 +38,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </p>
 
+<br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j2an777&show_icons=true&locale=en&layout=compact" alt="j2an777" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j2an777&show_icons=true&locale=en" alt="j2an777" /></p>
 
