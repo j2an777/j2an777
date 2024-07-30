@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on project [dart](https://www.dartgallery.site)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js**, **Kotlin MultiPlatform**
 
 - 📝 I regularly write articles on [https://velog.io/@j2an/posts](https://velog.io/@j2an/posts)
 
