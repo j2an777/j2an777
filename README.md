@@ -1,5 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=J2AN's%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=51&descAlign=62)
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 <h1 align="left">Hi 👋, I'm Seungjin Ha, I want to be a FrontEnd Developer.</h1>
 <h3 align="left">⛳ I am someone who enjoys embracing new challenges and never gives up.</h3>
 
