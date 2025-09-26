@@ -13,12 +13,6 @@
 
 - 📫 How to reach me **ha991104@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/j2an_2d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j2an_2d" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@j2an777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="하승진" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages & Frameworks:</h3>
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
