@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j2an777&label=Profile%20views&color=0e75b6&style=flat" alt="j2an777" /> </p>
 
-- 🔭 I’m currently working on project [HanwhaVision](https://step.hanwhavision.com)
+- 🔭 I’m currently working on project [HanwhaVisionStep](https://step.hanwhavision.com)
 
 - 🌱 I’m currently learning **React Native(CLI)**
 
