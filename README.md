@@ -7,7 +7,7 @@
 
 - 🔭 My most recent hands-on project was [HanwhaVisionStep](https://step.hanwhavision.com)
 
-- 🌱 I’m currently learning **React Native(CLI)**
+- 🌱 I’m currently learning **Next, React Native**
 
 - 📝 I regularly write articles on [https://velog.io/@j2an/posts](https://velog.io/@j2an/posts)
 
