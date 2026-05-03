@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j2an777&label=Profile%20views&color=0e75b6&style=flat" alt="j2an777" /> </p>
 
-- 🔭 My most recent hands-on project was [HanwhaVisionStep](https://step.hanwhavision.com)
+- 🔭 My most recent hands-on project was [PurpleAcademy](https://www.purpleacademy.co.kr/)
 
 - 🌱 I’m currently learning **Next, React Native**
 
