@@ -1,9 +1,7 @@
+<h1 align="center">SEUNGJIN HA</h1>
+
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=220&section=header&text=SEUNGJIN%20HA&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20Product%20Systems%20%C2%B7%20Web%20%26%20Hybrid%20App&descAlignY=58&descSize=17"
-    width="100%"
-    alt="Seungjin Ha — Frontend Engineer"
-  />
+  Frontend Engineer · Product Systems · Web & Hybrid App
 </p>
 
 ## Frontend Engineer building scalable product systems.
@@ -26,13 +24,6 @@ Foundation    Shared UI · Design tokens · Type-safe contracts
 Quality       Storybook · Playwright · Frontend conventions
 Platform      Monorepo · Build pipeline · Developer experience
 ```
-
-### Selected impact
-
-- React Native WebView 브릿지를 통해 **파일·PDF 다운로드와 플랫폼별 라우팅 흐름**을 연결했습니다.
-- 제품 곳곳의 공통 UI를 shared package와 Storybook으로 옮겨 **재사용 가능한 디자인 시스템**으로 정리했습니다.
-- Playwright 기반 화면 회귀 도구를 만들어 리팩터링 전후 화면을 **픽셀 단위로 검증**할 수 있게 했습니다.
-- localStorage 중심의 토큰 관리를 NextAuth JWT·session 구조로 전환하고 **인증 갱신과 쿠키 정책을 공통화**했습니다.
 
 ### Tech
 
