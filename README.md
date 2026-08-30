@@ -1,41 +1,55 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=J2AN's%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=51&descAlign=62)
-<h1 align="left">Hi 👋, I'm Seungjin Ha, I want to be a FrontEnd Developer.</h1>
-<h3 align="left">⛳ I am someone who enjoys embracing new challenges and never gives up.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j2an777&label=Profile%20views&color=0e75b6&style=flat" alt="j2an777" /> </p>
-
-- 🔭 My most recent hands-on project was [PurpleAcademy](https://www.purpleacademy.co.kr/)
-
-- 🌱 I’m currently learning **Next, React Native**
-
-- 📝 I regularly write articles on [https://velog.io/@j2an/posts](https://velog.io/@j2an/posts)
-
-- 📫 How to reach me **ha991104@gmail.com**
-
-<h3 align="left">Languages & Frameworks:</h3>
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=220&section=header&text=SEUNGJIN%20HA&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20Product%20Systems%20%C2%B7%20Developer%20Experience&descAlignY=58&descSize=17"
+    width="100%"
+    alt="Seungjin Ha — Frontend Engineer"
+  />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j2an777&show_icons=true&locale=en&layout=compact" alt="j2an777" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j2an777&show_icons=true&locale=en" alt="j2an777" /></p>
+## Frontend Engineer building scalable product systems.
 
-<!--
-**j2an777/j2an777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+복잡한 제품 요구사항을 **재사용 가능한 UI와 예측 가능한 구조**로 만드는 일을 좋아합니다.<br />
+현재 [PurpleAcademy](https://www.purpleacademy.co.kr/)에서 교육 플랫폼의 Web, Admin, Design System을 개발하고 있습니다.
 
-Here are some ideas to get you started:
+### What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 여러 사용자 접점을 가진 제품을 **Next.js와 React**로 개발합니다.
+- 반복되는 UI와 정책을 **공통 컴포넌트와 디자인 시스템**으로 정리합니다.
+- 프론트엔드를 중심으로 API와 데이터 구조까지 이해하며 **제품 단위로 문제를 해결**합니다.
+- Storybook과 E2E 테스트, 개발 규칙을 통해 **팀이 안정적으로 확장할 수 있는 기반**을 만듭니다.
+
+### Current focus
+
+```text
+Product       Web · Admin · Responsive UX · Data-heavy interfaces
+Foundation    Shared UI · Design tokens · Type-safe contracts
+Quality       Storybook · Playwright · Frontend conventions
+Platform      Monorepo · Build pipeline · Developer experience
+```
+
+### Tech
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+</p>
+
+### Connect
+
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@j2an/posts)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ha991104@gmail.com)
+
+<p align="center">
+  <sub>Clear interfaces · Consistent experiences · Maintainable systems</sub>
+</p>
